@@ -1,1 +1,1 @@
-wweb: gunicorn simos:app
+web: gunicorn simos:app
